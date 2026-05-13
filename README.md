@@ -1,6 +1,6 @@
-# Scraping Comment Threads with Python
+# Scraping Comment TikTok with Python
 
-A Python-based web scraping application designed to extract and collect comment threads from various websites.
+A Python-based web scraping application designed to extract and collect comment tiktok from various websites.
 
 ## 📋 Table of Contents
 
